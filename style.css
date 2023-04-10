@@ -1,0 +1,50 @@
+body{
+    display: grid;
+    place-items: center;
+    background-color: #F9A03F;
+}
+.contain{
+    margin-top: 5%;
+    height: 500px;
+    width:500px;
+    text-align: center;
+    background-color: #F7D488;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgb(108, 104, 104);
+    font-family: "Russo one";
+    
+    
+}
+#in{
+    text-align: center;
+    font-family: "Russo one";
+    height: 20px;
+}
+.ops{
+    height:40px;
+    width: 500px;
+    font-size: 17px;
+}
+#fah{
+    margin-left:30px;
+}
+span{
+    font-size: 50px;
+}
+button{
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    font-family: "Russo one";
+    border-radius: 5px;
+
+    font-size: 15px;
+    height: 30px;
+    width: 100px;
+}
+button:hover{
+    color: white;
+    background-color: yellowgreen;
+}
+#prompt{
+    font-size: 20px;
+}
